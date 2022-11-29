@@ -16,4 +16,4 @@
 <span><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 
-[![Rhichard's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCCYK&theme=radical&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhichard's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCCYK&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
