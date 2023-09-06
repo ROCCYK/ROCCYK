@@ -27,4 +27,9 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></span>
 <span><img alt="Amazon DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
 
+☁️ Cloud Platforms    
+
+<span><img alt="Goodle Cloud Platform" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
 [![Rhichard's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCCYK&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
