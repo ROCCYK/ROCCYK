@@ -51,5 +51,3 @@
 <img alt="Amazon Web Services" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="MLflow" src="https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue"/>
 <img alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-%230077B5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></span>
-
-[![Rhichard's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROCCYK&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
